@@ -16,35 +16,20 @@ const services = [
     badge: "Destaque",
   },
   {
-    icon: "🧱",
-    name: "Limpeza Pós-Obra",
-    description: "Remoção de poeira fina, resíduos de tinta e massa para deixar tudo pronto.",
-    price: "R$ 300,00",
-  },
-  {
     icon: "🛋️",
-    name: "Higienização de Estofados",
-    description: "Sofás, colchões e poltronas higienizados com produtos de qualidade.",
+    name: "Passadoria",
+    description: "Serviço de passadoria de roupas, garantindo peças bem passadas, alinhadas e prontas para uso.",
     price: "R$ 180,00",
   },
-  {
-    icon: "🪟",
-    name: "Limpeza de Vidros",
-    description: "Vidros e janelas sem manchas, com acabamento brilhante.",
-    price: "R$ 120,00",
-  },
+ 
   {
     icon: "🏢",
     name: "Limpeza Comercial",
     description: "Escritórios e lojas limpos para receber bem seus clientes.",
     price: "R$ 250,00",
   },
-  {
-    icon: "📦",
-    name: "Limpeza Pré-Mudança",
-    description: "Imóvel limpo e organizado para entrega ou para a sua chegada.",
-    price: "R$ 200,00",
-  },
+  
+
 ];
 
 // ============================================================
